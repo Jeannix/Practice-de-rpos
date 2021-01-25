@@ -3,4 +3,4 @@ project(ArbolonB)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(ArbolonB main.cpp)
+add_executable(ArbolonB main.cpp BLink.h)
